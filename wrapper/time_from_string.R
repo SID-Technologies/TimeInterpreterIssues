@@ -3,7 +3,7 @@ library(httr)
 library(jsonlite)
 library(stringi)
 
-.time_token <- "f6c02ccd45msh48a1aaec9639ec9p17d143jsn4df9ebbe2574"
+.time_token <- "your token goes here"
 
 time_from_string_api <- function(qry = NULL, api_key = NULL, tz = NULL, ...){
   
