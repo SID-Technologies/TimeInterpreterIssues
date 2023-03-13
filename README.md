@@ -4,7 +4,7 @@ This is the support repo for the Time Interpreter API. Please create an issue is
 
 
 # Examples  
-Using the included **/wrapper/time_from_string.R** function.  
+Using the included **[R wrapper function](/wrapper/time_from_string.R)** function.  
 
 __You will need an api key, which can be obtained by signing up at [rapidAPI](https://rapidapi.com/sid-technologies-llc-sid-technologies-llc-default/api/time-interpreter)__  
 
